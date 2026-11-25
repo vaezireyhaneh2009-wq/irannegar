@@ -1,0 +1,7 @@
+{
+  "appId": "ir.irannegar.app",
+  "appName": "ایران‌نگار",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
